@@ -1,5 +1,7 @@
 # Text Slider: Efficient and Plug-and-Play Continuous Concept Control for Image/Video Synthesis via LoRA Adapters
 
+<img src="assets/teaser.gif" width="100%"></img>
+
 **WACV 2026**
 
 [Pin-Yen Chiu](https://itsnickchiu.github.io), 
