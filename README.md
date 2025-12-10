@@ -10,7 +10,7 @@ Research Center for Information Technology Innovation, Academia Sinica
 
 #### [Project Page](https://textslider.github.io) | [Paper](https://arxiv.org/pdf/2509.18831) | [arXiv](https://arxiv.org/abs/2509.18831)
 
-<img src="teaser.jpg" width="100%"></img>
+<img src="teaser.png" width="80%"></img>
 
 ## Environment setup
 ```
