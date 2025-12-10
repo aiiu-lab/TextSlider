@@ -1,0 +1,5 @@
+- target: "" # what word for erasing the positive concept from
+  positive: "winter scene, snow-covered landscape, icy ground, frosty trees, frozen lakes, snowflakes falling, cloudy sky, cold atmosphere, winter lights, visible snow piles" # concept to erase
+  unconditional: "summer scene, dry ground, green grass, leafy trees, clear sky, warm lighting, no snow, sunlit atmosphere" # word to take the difference from the positive concept
+  neutral: "" # starting point for conditioning the target
+  action: "enhance" # erase or enhance

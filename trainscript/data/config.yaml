@@ -1,0 +1,10 @@
+prompts_file: "trainscripts/textsliders/data/prompts.yaml"
+train:
+  precision: "bfloat16"
+  iterations: 500
+  lr: 0.0002
+  seed: 6666
+save:
+  name: "temp"
+  path: "../models"
+  precision: "bfloat16"

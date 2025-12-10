@@ -1,0 +1,5 @@
+- target: "" # what word for erasing the positive concept from
+  positive: "delightful atmosphere, joyful expressions, cheerful colors, heartwarming scene, positive energy, vibrant and lively mood" # concept to erase
+  unconditional: "gloomy atmosphere, sad expressions, dull colors, depressing scene, negative emotion, dark and heavy mood" # word to take the difference from the positive concept
+  neutral: "" # starting point for conditioning the target
+  action: "enhance" # erase or enhance

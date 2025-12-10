@@ -1,0 +1,5 @@
+- target: "" # what word for erasing the positive concept from
+  positive: "clay style, claymation look, sculpted textures, hand-molded appearance, matte surfaces, visible fingerprints, soft rounded edges, stop-motion aesthetic, playful handcrafted feel" # concept to erase
+  unconditional: "realistic style, smooth digital textures, lifelike proportions, clean lines, high detail realism, photographic surfaces" # word to take the difference from the positive concept
+  neutral: "" # starting point for conditioning the target
+  action: "enhance" # erase or enhance

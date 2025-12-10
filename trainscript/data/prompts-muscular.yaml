@@ -1,0 +1,5 @@
+- target: "person" # what word for erasing the positive concept from
+  positive: "person, muscular, defined muscles, strong physique, broad shoulders, visible biceps, athletic build, toned body, fit and powerful appearance" # concept to erase
+  unconditional: "person, slim, lean, less muscular, soft body, narrow shoulders, minimal muscle definition, average build" # word to take the difference from the positive concept
+  neutral: "person" # starting point for conditioning the target
+  action: "enhance" # erase or enhance

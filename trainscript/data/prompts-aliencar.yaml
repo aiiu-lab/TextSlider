@@ -1,0 +1,5 @@
+- target: "car" # what word for erasing the positive concept from
+  positive: "alien car, otherworldly design, biomechanical structure, glowing neon lights, organic curves, extraterrestrial materials, hovering or levitating, futuristic sci-fi aesthetic" # concept to erase
+  unconditional: "regular car, traditional automotive design, standard wheels, conventional materials, familiar human-made structure" # word to take the difference from the positive concept
+  neutral: "car" # starting point for conditioning the target
+  action: "enhance" # erase or enhance

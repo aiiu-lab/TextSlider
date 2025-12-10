@@ -1,0 +1,5 @@
+- target: "person" # what word for erasing the positive concept from
+  positive: "person, full beard, thick facial hair, well-groomed beard, masculine appearance" # concept to erase
+  unconditional: "person, clean-shaven, no facial hair, smooth chin, youthful look" # word to take the difference from the positive concept
+  neutral: "person" # starting point for conditioning the target
+  action: "enhance" # erase or enhance

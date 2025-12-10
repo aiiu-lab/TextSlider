@@ -1,0 +1,5 @@
+- target: "person" # what word for erasing the positive concept from
+  positive: "person, blonde hair, golden tones, light yellow shades, bright and radiant hair color" # concept to erase
+  unconditional: "person, dark hair, black hair, brown hair, red hair, non-blonde shades" # word to take the difference from the positive concept
+  neutral: "person" # starting point for conditioning the target
+  action: "enhance" # erase or enhance

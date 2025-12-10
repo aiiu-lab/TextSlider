@@ -1,0 +1,5 @@
+- target: "car" # what word for erasing the positive concept from
+  positive: "car, futuristic, sleek aerodynamic design, glowing neon lights, advanced technology features, metallic surfaces, sci fi style, high-tech appearance" # concept to erase
+  unconditional: "car, traditional, old-fashioned, classic design, rustic, vintage, minimal technology" # word to take the difference from the positive concept
+  neutral: "car" # starting point for conditioning the target
+  action: "enhance" # erase or enhance

@@ -1,0 +1,5 @@
+- target: "person" # what word for erasing the positive concept from
+  positive: "person, executive, formal suit, confident posture, professional setting, business attire, authoritative presence" # concept to erase
+  unconditional: "person, casual clothing, relaxed posture, informal setting, unprofessional appearance" # word to take the difference from the positive concept
+  neutral: "person" # starting point for conditioning the target
+  action: "enhance" # erase or enhance

@@ -1,0 +1,5 @@
+- target: "car" # what word for erasing the positive concept from
+  positive: "car, rusty, corroded metal, peeling paint, oxidized surface, aged appearance, weathered condition" # concept to erase
+  unconditional: "car, clean, polished, shiny surface, new paint, well-maintained, pristine condition" # word to take the difference from the positive concept
+  neutral: "car" # starting point for conditioning the target
+  action: "enhance" # erase or enhance

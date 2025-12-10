@@ -1,0 +1,5 @@
+- target: "person" # what word for erasing the positive concept from
+  positive: "person, small eyes, narrow eye shape, subtle eyelids, low eye-to-face ratio" # concept to erase
+  unconditional: "person, large eyes, wide eye shape, prominent eyelids, high eye-to-face ratio" # word to take the difference from the positive concept
+  neutral: "person" # starting point for conditioning the target
+  action: "enhance" # erase or enhance
